@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "Simple node server example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judusfloratos/simple-node-server.git"
+  },
+  "author": "Judus Floratos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judusfloratos/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/judusfloratos/simple-node-server#readme"
+}
